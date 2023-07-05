@@ -5,7 +5,8 @@ module.exports = {
     extend: {fontFamily:{
       SpaceGrotesk:['Space Grotesk'],
       poppins:['poppins'],
-      Lexend:['Lexend'], 
+      Lexend:['Lexend'],
+      Inter:['inter'] ,
       
     }},
   },
